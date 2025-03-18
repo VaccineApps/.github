@@ -54,21 +54,6 @@ VaccineApp/
 
 ---
 
-## 🚀 **실행 방법**  
-
-1️⃣ **Gradle 빌드 & 실행**  
-```bash
-./gradlew build
-java -jar build/libs/VaccineApp.jar
-```
-
-2️⃣ **악성코드 검사 실행**  
-```bash
-java -cp out/production/VaccineApp Scanner.analysis.FileNameFinder
-```
-
----
-
 ## 🎯 **향후 개발 계획**  
 📌 **UI 추가 (JavaFX 기반)**  
 📌 **백엔드 연동 (SQLite DB 기록 저장)**  
