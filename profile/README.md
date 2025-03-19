@@ -1,6 +1,6 @@
 ### **Virus Cleansing - 악성코드 탐지 & 검사 솔루션**  
 
-![Image](https://github.com/user-attachments/assets/6c616b9c-e281-468c-bccd-59762ffd3e83)
+![Image](https://github.com/user-attachments/assets/28b808ad-1721-4609-b702-9e8b969ac585)
 
 > **Windows 기반의 악성코드 탐지 및 검사 프로그램**  
 > 실행 중인 프로세스를 검사하고, 파일 시스템을 스캔하여 **의심스러운 악성코드**를 탐지합니다.  
